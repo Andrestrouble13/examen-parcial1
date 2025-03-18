@@ -7,3 +7,5 @@
 
 4 con el comando git pull origin  main recuperamos los cambios en github a la carpeta local 
 
+5 editamos 2 de los archivos .py y el readme guardamos con el comando git add y con el comando git push origin main LO SUBIMOS Y ESCRIBIMOS EL COMIT CORRESPONDIENTE 
+
