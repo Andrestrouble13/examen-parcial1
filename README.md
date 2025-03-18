@@ -9,3 +9,5 @@
 
 5 editamos 2 de los archivos .py y el readme guardamos con el comando git add y con el comando git push origin main LO SUBIMOS Y ESCRIBIMOS EL COMIT CORRESPONDIENTE 
 
+6 Moidificamos los todos los archivos y en este paso agregamos los pasos hasta el momento 
+
